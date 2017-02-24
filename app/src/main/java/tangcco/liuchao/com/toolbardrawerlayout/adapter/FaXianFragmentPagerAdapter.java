@@ -20,6 +20,7 @@ import tangcco.liuchao.com.toolbardrawerlayout.R;
 
 public class FaXianFragmentPagerAdapter extends FragmentPagerAdapter {
 
+    //发现
     private List<Fragment> fragmentList;
     private String[] titles;
     private Context context;
