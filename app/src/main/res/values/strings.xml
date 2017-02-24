@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ZhiHu</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="menu_other">
+        <item>切换主题</item>
+        <item>设置</item>
+    </string-array>
+</resources>

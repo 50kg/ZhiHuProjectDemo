@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<color name="colorPrimary">#FA7199</color>-->
+    <!--<color name="colorPrimaryDark">#FA7199</color>-->
+    <!--<color name="colorAccent">#FA7199</color>-->
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#388E3C</color>
+    <color name="colorAccent">#8BC34A</color>
+    <color name="colorBlack">#000000</color>
+
+    <color name="recoveryColorPrimary">#4CAF50</color>
+    <color name="recoveryColorPrimaryDark">#388E3C</color>
+    <color name="recoveryColorAccent">#8BC34A</color>
+    <color name="recoveryTextColor">#FFFFFF</color>
+</resources>

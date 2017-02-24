@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:id="@+id/nav_home"
+            android:checkable="true"
+            android:icon="@drawable/ic_drawer_home_normal"
+            android:title="首页" />
+        <item
+            android:id="@+id/nav_faxian"
+            android:checkable="true"
+            android:icon="@drawable/ic_drawer_explore_normal"
+            android:title="发现" />
+        <item
+            android:id="@+id/nav_guanzhu"
+            android:checkable="true"
+            android:icon="@drawable/ic_drawer_follow_normal"
+            android:title="关注" />
+        <item
+            android:id="@+id/nav_shoucang"
+            android:checkable="true"
+            android:icon="@drawable/ic_drawer_collect_normal"
+            android:title="收藏" />
+        <item
+            android:id="@+id/nav_yuanzhuo"
+            android:checkable="true"
+            android:icon="@drawable/ic_drawer_draft_normal"
+            android:title="圆桌" />
+        <item
+            android:id="@+id/nav_sixin"
+            android:checkable="true"
+            android:icon="@drawable/ic_drawer_register_normal"
+            android:title="私信" />
+    </group>
+
+    <item android:title="其他">
+        <menu>
+            <item
+                android:id="@+id/nav_zhuti"
+                android:checkable="true"
+                android:title="切换主题" />
+            <item
+                android:id="@+id/nav_shezhi"
+                android:checkable="true"
+                android:title="设置" />
+        </menu>
+    </item>
+
+</menu>
